@@ -39,7 +39,7 @@ def alan_kay_is_known_for
         }
      }
 string = programmer_hash[:alan_kay][:known_for]
-return string.to_s
+return string.to_str
 end
 
 def dennis_ritchies_language
